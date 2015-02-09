@@ -28,6 +28,15 @@ The system will have objects that do the following: -
 22. Display text.
 23. Act a container for scripts.
 24. Play sounds files.
+25. Enable other objects.
+26. Accept incoming data from pointing devices.
+27. Accept incoming data from keyboards.
+28. Accept incoming data from networks.
+29. Send data over networks.
+30. Interact with databases.
+31. Read text tiles.
+32. Write text tiles.
+33. Generate numbers.
 
 The system will also have other objects with other functions.
 

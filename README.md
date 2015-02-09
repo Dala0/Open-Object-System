@@ -21,5 +21,14 @@ The system will have objects that do the following: -
 15. Effect other objects via gravity.
 16. Emit light.
 17. Emit sound.
+18. Disable other objects.
+19. Accept incoming video data.
+20. Output video data.
+21. Display videos.
+22. Display text.
+23. Act a container for scripts.
+24. Play sounds files.
+
+The system will also have other objects with other functions.
 
 Objects will have parameters that are addressable by a scripting language.

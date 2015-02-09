@@ -40,4 +40,8 @@ The system will have objects that do the following: -
 
 The system will also have other objects with other functions.
 
+The objects will exist inside a virtual three dimensional space. A two dimensional display will be possible by setting up a camera suitably and snapping all objects to zero on the Z axis. 
+
+Users will be able to connect objects together using virtual patch leads.
+
 Objects will have parameters that are addressable by a scripting language.

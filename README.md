@@ -34,8 +34,8 @@ The system will have objects that do the following: -
 28. Accept incoming data from networks.
 29. Send data over networks.
 30. Interact with databases.
-31. Read text tiles.
-32. Write text tiles.
+31. Read text files.
+32. Write text files.
 33. Generate numbers.
 
 The system will also have other objects with other functions.

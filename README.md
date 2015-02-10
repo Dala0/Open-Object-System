@@ -26,7 +26,7 @@ The system will have objects that do the following: -
 20. Output video data.
 21. Display videos.
 22. Display text.
-23. Act a container for scripts.
+23. Act as a container for scripts.
 24. Play sounds files.
 25. Enable other objects.
 26. Accept incoming data from pointing devices.

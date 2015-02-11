@@ -44,4 +44,10 @@ The objects will exist inside a virtual three dimensional space. A two dimension
 
 Users will be able to connect objects together using virtual patch leads.
 
+It will be possible to group objects together using various methods such as the following: -
+
+1. Grouping - Objects retain their previous spacial relationships.
+2. Clustering - Objects are stuck together in a cluster with close to zero distance between them.
+3. Universing - A sub universe is created and the selected objects moved to the new universe.
+
 Objects will have parameters that are addressable by a scripting language.

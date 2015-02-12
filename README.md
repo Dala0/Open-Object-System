@@ -38,6 +38,7 @@ The system will have objects that do the following: -
 32. Write text files.
 33. Generate numbers.
 34. Act as universe portals.
+35. Act as microphones.
 
 The system will also have other objects with other functions.
 

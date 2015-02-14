@@ -1,6 +1,6 @@
 # Open-Object-System
 
-A multi-purpose object system. 
+A multi-purpose object system. The software will be usage agnostic and platform agnostic. It will be built on technologies that are widely useable on a number of platforms, such as C++, OpenGL, TCP/IP, and MIDI.  
 
 The system will have objects that do the following: -
 

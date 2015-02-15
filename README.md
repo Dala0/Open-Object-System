@@ -39,6 +39,8 @@ The system will have objects that do the following: -
 33. Generate numbers.
 34. Act as universe portals.
 35. Act as microphones.
+36. Act as low pass filters.
+37. Act as high pass filters.
 
 The system will also have other objects with other functions.
 

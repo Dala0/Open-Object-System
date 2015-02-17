@@ -41,6 +41,7 @@ The system will have objects that do the following: -
 35. Act as microphones.
 36. Act as low pass filters.
 37. Act as high pass filters.
+38. Accept incoming data from head mounted displays.
 
 The system will also have other objects with other functions.
 

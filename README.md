@@ -42,6 +42,7 @@ The system will have objects that do the following: -
 36. Act as low pass filters.
 37. Act as high pass filters.
 38. Accept incoming data from head mounted displays.
+39. Act as amplifiers.
 
 The system will also have other objects with other functions.
 

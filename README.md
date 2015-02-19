@@ -2,6 +2,10 @@
 
 A multi-purpose object system. The software will be usage agnostic and platform agnostic. It will be built on technologies that are widely useable on a number of platforms, such as C++, OpenGL, TCP/IP, and MIDI.  
 
+The objects will exist inside a virtual three dimensional space. A two dimensional display will be possible by setting up a camera suitably and snapping all objects to zero on the Z axis. 
+
+Users will be able to connect objects together using virtual patch leads. Some objects will be able to autonomously connect to and disconnect from other objects. Connections between objects will use inputs and outputs. Each object will be able to have a large number of inputs and outputs. Inputs and outputs will have data transfer types, such as numbers, text, audio, video, script, and MIDI.
+
 The system will have objects that do the following: -
 
 1. Display 3D models.
@@ -45,10 +49,6 @@ The system will have objects that do the following: -
 39. Act as amplifiers.
 
 The system will also have other objects with other functions.
-
-The objects will exist inside a virtual three dimensional space. A two dimensional display will be possible by setting up a camera suitably and snapping all objects to zero on the Z axis. 
-
-Users will be able to connect objects together using virtual patch leads. Some objects will be able to autonomously connect to and disconnect from other objects. Connections between objects will use inputs and outputs. Each object will be able to have a large number of inputs and outputs. Inputs and outputs will have data transfer types, such as numbers, text, audio, video, script, and MIDI.
 
 It will be possible to group objects together using various methods such as the following: -
 

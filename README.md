@@ -47,6 +47,7 @@ The system will have objects that do the following: -
 37. Act as high pass filters.
 38. Accept incoming data from head mounted displays.
 39. Act as amplifiers.
+40. Accept incoming data from joysticks.
 
 The system will also have other objects with other functions.
 

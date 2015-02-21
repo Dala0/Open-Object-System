@@ -48,6 +48,7 @@ The system will have objects that do the following: -
 38. Accept incoming data from head mounted displays.
 39. Act as amplifiers.
 40. Accept incoming data from joysticks.
+41. Accept incoming data from touch screens.
 
 The system will also have other objects with other functions.
 

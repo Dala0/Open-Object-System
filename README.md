@@ -50,6 +50,7 @@ The system will have objects that do the following: -
 40. Accept incoming data from joysticks.
 41. Accept incoming data from touch screens.
 42. Generate MIDI data.
+43. Generate video data.
 
 The system will also have other objects with other functions.
 
